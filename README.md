@@ -7,8 +7,7 @@
 - 👯 I’m looking to collaborate with - Developers working on NLP and Computer Vision problems like Chatbots and Autonomous Vehicles.
 - 💬 Ask me about - Python, Computer Vision, Natural Language Processing.
 
-[![Chirag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chirag4798&show_icons=true&theme=onedark)
-)](https://github.com/chirag4798)
+[![Chirag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chirag4798&show_icons=true&theme=onedark)](https://github.com/chirag4798)
 
 ## Connect with me:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
