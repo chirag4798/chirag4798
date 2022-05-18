@@ -1,10 +1,10 @@
 # Hi, I'm Chirag <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-[![Website](https://img.shields.io/badge/Machine%20Learning%20Engineer-Optisol%20Business%20Solutions-green?style=for-the-badge&logo=appveyor)](https://optisolbusinesssolutions.com)
+[![Website](https://img.shields.io/badge/Research%20Scientist%20-Adagrad%20AI%20-green?style=for-the-badge&logo=appveyor)](https://optisolbusinesssolutions.com)
 
-## Tech Enthusiast with a Passion for Data Driven Problem Solving.
-- 🔭 I’m currently working on - Computer Vision and NLP problems.
-- 🌱 I’m currently learning - C++ and Edge Computing.
-- 👯 I’m looking to collaborate with - Developers working on NLP and Computer Vision problems like Chatbots and Autonomous Vehicles.
+## Research & Data Driven Problem Solving.
+- 🔭 I’m currently working on - computer vision on edge for real-time video analytics.
+- 🌱 I’m currently learning - C/C++ and edge-computing.
+- 👯 I’m looking to collaborate with - Developers working computer vision problems like autonomous vehicles.
 - 💬 Ask me about - Python, Computer Vision, Natural Language Processing.
 
 [![Chirag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chirag4798&show_icons=true&theme=onedark)](https://github.com/chirag4798)
