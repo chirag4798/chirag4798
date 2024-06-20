@@ -6,8 +6,7 @@
 - 🌱 I’m currently learning - C/C++ and edge-computing.
 - 👯 I’m looking to collaborate with - Developers working computer vision problems like autonomous vehicles.
 - 💬 Ask me about - C/C++, Python, Computer Vision, Machine Learning & Deep Learning.
-
-[![Chirag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chirag4798&show_icons=true&theme=onedark)](https://github.com/chirag4798)
+<!-- [![Chirag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chirag4798&show_icons=true&theme=onedark)](https://github.com/chirag4798) -->
 
 ## Connect with me:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://openclipart.org/image/2400px/svg_to_png/86401/provider-internet.png" />][website]
